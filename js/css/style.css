@@ -1,0 +1,30 @@
+img
+{
+width:100%;
+padding:10px 10px 10px 10px;
+border: solid 1.5px brown;
+
+}
+h1
+{
+font-family: 'Sacramento', cursive;
+color:brown;
+font-size:100px;
+
+}
+h2
+{
+font-family: 'Cookie', cursive;
+font-size:120;
+color:black;
+padding:10px 10px 10px 10px;
+}
+h3
+{
+font-family: 'Cookie', cursive;
+font-size:100;
+color:black;
+padding:10px 10px 10px 10px;
+
+
+}
